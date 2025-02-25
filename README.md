@@ -118,7 +118,7 @@ Hot Chocolate ($72,416.00)
 #### Promotions or discounts on slower days (if identified) can help maintain revenue stability.
 
 
-## 5. CONCLUSION
+## CONCLUSION
 
 This Coffee Shop Sales Dashboard effectively visualizes key business metrics, enabling data-driven decision-making.
 By analyzing sales trends, customer preferences, and store performance, businesses can optimize pricing strategies, inventory, and promotional efforts.
